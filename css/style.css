@@ -1,0 +1,109 @@
+.wrapper{
+    width: 1190px;
+}
+.nav{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.info{
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    padding: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.novik{
+    display: flex;
+    align-items:flex-end;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.nov{
+    margin-left: 50px;
+}
+.abodis{
+    height: 500px;
+    margin-top: 50px;
+    background-color: rgb(238, 232, 232);
+}
+.about{
+    padding-top: 70px;
+    margin-left: 550px;
+}
+.designer{
+    margin-top: 70px;
+    margin-left: 368px;
+    margin-bottom: 10px;
+}
+.skills{
+    margin-top: 150px;
+    margin-left: 550px;
+}
+.work{
+    margin-top: 50px;
+    margin-left: 480px;
+}
+.dlc{
+    margin-top: 50px;
+    margin-left: 200px ;
+}
+.portfolio{
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.girl{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.store{
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.reebok{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.concept{
+    margin-top: 150px;
+    margin-left: 410px;
+}
+.camera{
+    margin-left: 50px;
+}
+.contacts{
+    margin-top: 50px;
+    margin-left: 480px; 
+}
+.want{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: 60px;
+}
+.btn{
+    font-size: 14px;
+    border-radius: 20px;
+    border: 2px solid rgb(97, 97, 97);
+    background-color: rgb(0, 0, 0);
+    padding: 10px 25px;
+    margin-left: 470px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(255, 255, 255);
+    color:rgb(167, 166, 166)
+}
+.social{
+    margin-top: 50px;
+    margin-left: 350px; 
+}
+.insta{
+    margin-top: 50px;
+    margin-left: 400px;  
+}
